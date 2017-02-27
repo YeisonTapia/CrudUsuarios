@@ -7,8 +7,6 @@ Esta es una aplicacion sencilla en donde se implementa un CRUD para manipular el
 
 ## Instrucciones de Instalacion
 
-Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
-
 + Después de descargar el proyecto entramos a este.
 
         $ cd nombreRepositorio
